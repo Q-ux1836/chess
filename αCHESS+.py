@@ -1,3 +1,4 @@
+#now write the full code correctly in one script sounds,logo piece image should come from local a green dot should come for move and when a piece selected its squre should be green and if got checked the kings current squre should be surrounded by red circle and here is the AI logic JavaScript : " /*
 import sys
 import os
 import subprocess
@@ -3308,3 +3309,4 @@ if __name__ == "__main__":
 # undo, redo, promotion, and more.
 # The code is structured to allow easy customization and extension for future features.
 # Enjoy playing chess! ♟️
+
